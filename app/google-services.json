@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8426843327",
+    "project_id": "audio-recorder-8fc59",
+    "storage_bucket": "audio-recorder-8fc59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8426843327:android:ea30ae6d5d27a0f9c06a0a",
+        "android_client_info": {
+          "package_name": "com.ajanovski.audiorecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8426843327-815jbocajubjjlvp1ohvdfb8i1oa67ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNOGeOVb_MUqwaKNxUl7ZP9FGpDBSJ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8426843327-815jbocajubjjlvp1ohvdfb8i1oa67ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
